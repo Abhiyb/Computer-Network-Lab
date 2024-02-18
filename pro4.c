@@ -1,3 +1,5 @@
+//Simulate the working of distance vector routing algorithm using Bellman-Ford’s algorithm
+
 #include <stdio.h>
 #include <stdbool.h>
 
